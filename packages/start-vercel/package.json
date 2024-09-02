@@ -15,7 +15,7 @@
     "rollup": "^3.10.0",
     "terser": "^5.16.1",
     "fast-glob": "3.2.12",
-    "micromatch": "4.0.5"
+    "micromatch": "4.0.8"
   },
   "devDependencies": {
     "solid-start": "workspace:*",
